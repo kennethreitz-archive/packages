@@ -12,6 +12,12 @@ Ideas
 - SCM based (tags are releases)
 
 
+Components
+----------
+
+- Flask-powered PyPi-compatible server?
+
+
 Ummm.. Why?
 -----------
 
