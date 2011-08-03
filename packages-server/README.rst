@@ -10,4 +10,18 @@ I am:
 - Stuipidly mirrorable
 - Stupidly user-friendly
 - Pip-compatible
-- RESTful
+
+
+I feature:
+
+- A RESTful API
+- Clean Design
+- Faceted interface
+
+
+Steps
+-----
+
+- Accounts
+- HTTP Basic Authentication
+-
