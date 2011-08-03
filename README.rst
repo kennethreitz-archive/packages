@@ -11,8 +11,8 @@ push it to another.
 Components
 ----------
 
-- Flask-powered PyPi-compatible server. Authentication.
-- A CLI client.
+- `Server <https://github.com/kennethreitz/packages/tree/master/packages-server>`_
+- `Client <https://github.com/kennethreitz/packages/tree/master/packages-client>`_
 
 
 Ummm.. Why?
