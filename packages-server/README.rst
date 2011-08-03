@@ -22,6 +22,12 @@ I feature:
 Steps
 -----
 
-- Accounts
+- Basic Architecture
+- Import a Git repo as a package
+- User Accounts
 - HTTP Basic Authentication
--
+- Restrict packages
+- API
+- Help Guides
+- Epic Design
+- Faceted view

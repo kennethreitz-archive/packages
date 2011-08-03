@@ -9,6 +9,7 @@ I am:
 - Able to mirror projects from one source to another
 - PyPi-compatible
 - SSH Authenticated
+- Centeralized server alias list
 
 
 Potential Usage
@@ -20,5 +21,5 @@ Install 'requests' from PyPi ::
 
 Mirror PyPi 'requests' package to personal server ::
 
-    $ packages mirror pypi/requests packages.kreitz.co
+    $ packages mirror pypi/requests kr
 
