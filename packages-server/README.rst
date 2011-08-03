@@ -10,3 +10,4 @@ I am:
 - Stuipidly mirrorable
 - Stupidly user-friendly
 - Pip-compatible
+- RESTful
