@@ -22,4 +22,4 @@ Install 'requests' from PyPi ::
 Mirror PyPi 'requests' package to personal server ::
 
     $ packages mirror pypi/requests kr
-
+    # if requests had dependencies, push them up too.
