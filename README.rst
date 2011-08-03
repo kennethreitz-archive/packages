@@ -1,15 +1,11 @@
 Packages
 ========
 
-This is just a scratchboard for a possible packaging system.
+This is just a scratchboard for a possible distributed packaging system
+for Python.
 
-Chances are that I'll never end up writing anything. Who knows.
-
-Ideas
------
-
-- User namespaced
-- SCM based (tags are releases)
+Package servers can be treated like Git remotes. Pull a package from one,
+push it to another.
 
 
 Components
