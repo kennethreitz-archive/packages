@@ -3,6 +3,7 @@ Packages
 
 This is just a scratchboard for a possible packaging system.
 
+Chances are that I'll never end up writing anything. Who knows.
 
 Ideas
 -----
@@ -13,6 +14,9 @@ Ideas
 
 Ummm.. Why?
 -----------
+
+I've spent 3 hours today trying to deal with some deep dependency of
+someone's broken package. I want this to take seconds.
 
 I want:
 
