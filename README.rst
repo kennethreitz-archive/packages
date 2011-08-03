@@ -8,21 +8,26 @@ Package servers can be treated like Git remotes. Pull a package from one,
 push it to another.
 
 
-Components
-----------
+**Components:**
 
 - `Server <https://github.com/kennethreitz/packages/tree/master/packages-server>`_
 - `Client <https://github.com/kennethreitz/packages/tree/master/packages-client>`_
 
 
-Ummm.. Why?
------------
+Goals
+-----
 
 I've spent 3 hours today trying to deal with some deep dependency of
-someone's broken package. I want this to take seconds.
+someone's broken package. This should take seconds.
 
-I want:
+- Mirror (or fork) any project in mere seconds
+- PyPi + Pip compatibility
+- Dependencies managed by installer (packages client), not distutils.
 
-- Simple nested requirements overrides
-- Simple-as-humanely possible private mirroring
-- backwards compatibility w/ pip/easy_install, or something.
+
+Users
+------
+
+- Everyone. PyPi Alternative
+- Companies. Shouldn't rely on third parties.
+- Open source projects. Shouldn't rely on third parties.
