@@ -10,6 +10,7 @@ I am:
 - Stuipidly mirrorable
 - Stupidly user-friendly
 - Pip-compatible
+- Deployable within minutes
 
 
 I feature:
@@ -17,6 +18,14 @@ I feature:
 - A RESTful API
 - Clean Design
 - Faceted interface
+
+
+Users
+-----
+
+- PyPi Alternative
+- Companies. Can't rely on third parties.
+- Open source projects.
 
 
 Steps
@@ -31,3 +40,12 @@ Steps
 - Help Guides
 - Epic Design
 - Faceted view
+
+
+Lists
+-----
+
+**Package Types:**
+
+- Manually Uploaded (PyPi Style)
+- SCM-Based
