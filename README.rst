@@ -15,7 +15,8 @@ Ideas
 Components
 ----------
 
-- Flask-powered PyPi-compatible server?
+- Flask-powered PyPi-compatible server. Authentication.
+- A CLI client.
 
 
 Ummm.. Why?
